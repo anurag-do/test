@@ -1,1 +1,1 @@
-Git play 2 s
+Git play 2
