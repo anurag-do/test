@@ -1,1 +1,1 @@
-this is test. rev 1
+This is world of git.
